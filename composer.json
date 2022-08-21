@@ -1,0 +1,12 @@
+{
+    "name": "lorr/my_project_consumer",
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/Orrbit/composer-lib-project-example.git"
+        }
+      ],
+    "require": {
+        "lorr/my_customer_generator": "dev-main"
+    }
+}
